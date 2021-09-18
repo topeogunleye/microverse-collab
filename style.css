@@ -1,0 +1,12 @@
+@media (min-width: 767px) {
+  .navbar {
+    position: fixed;
+    top: 50%;
+    right: 0;
+    left: initial;
+    width: 125px;
+    background-color: #ddd;
+    /*width: 0%;*/
+  }
+  
+}
